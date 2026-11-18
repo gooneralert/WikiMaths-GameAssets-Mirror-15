@@ -1,0 +1,52 @@
+{
+  "mirror/hotline-miami-2/app.data.part-30268-1794912246381": {
+    "size": 368708965,
+    "parts": [
+      {
+        "path": "mirror/hotline-miami-2/app.data.part-30268-1794912246381.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.data.part-30268-1794912246381.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.data.part-30268-1794912246381.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.data.part-30268-1794912246381.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.data.part-30268-1794912246381.part005",
+        "size": 8708965
+      }
+    ]
+  },
+  "mirror/hotline-miami-2/app.wasm.part-30268-1794912246381": {
+    "size": 369030184,
+    "parts": [
+      {
+        "path": "mirror/hotline-miami-2/app.wasm.part-30268-1794912246381.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.wasm.part-30268-1794912246381.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.wasm.part-30268-1794912246381.part003",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.wasm.part-30268-1794912246381.part004",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/hotline-miami-2/app.wasm.part-30268-1794912246381.part005",
+        "size": 9030184
+      }
+    ]
+  }
+}

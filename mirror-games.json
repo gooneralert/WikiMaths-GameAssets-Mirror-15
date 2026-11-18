@@ -1,0 +1,278 @@
+[
+  {
+    "slug": "hotline-miami-2",
+    "title": "Hotline Miami 2",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 329474505,
+    "thumbnail": ""
+  },
+  {
+    "slug": "celeste",
+    "title": "Celeste",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": " Maddy Makes Games",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+    "tags": [
+      "2D",
+      "2D Platformer",
+      "Action",
+      "Platformer",
+      "Indie",
+      "Atmospheric",
+      "Story Rich",
+      "Difficult"
+    ],
+    "controls": [
+      {
+        "action": "Left",
+        "keys": [
+          {
+            "key": "ArrowLeft",
+            "keyCode": 37
+          }
+        ]
+      },
+      {
+        "action": "Right",
+        "keys": [
+          {
+            "key": "ArrowRight",
+            "keyCode": 39
+          }
+        ]
+      },
+      {
+        "action": "Up",
+        "keys": [
+          {
+            "key": "ArrowUp",
+            "keyCode": 38
+          }
+        ]
+      },
+      {
+        "action": "Down",
+        "keys": [
+          {
+            "key": "ArrowDown",
+            "keyCode": 40
+          }
+        ]
+      },
+      {
+        "action": "Jump",
+        "keys": [
+          {
+            "key": "KeyC",
+            "keyCode": 67
+          }
+        ]
+      },
+      {
+        "action": "Dash/Talk",
+        "keys": [
+          {
+            "key": "KeyX",
+            "keyCode": 88
+          }
+        ]
+      },
+      {
+        "action": "Grab",
+        "keys": [
+          {
+            "key": "KeyZ",
+            "keyCode": 90
+          },
+          {
+            "key": "KeyV",
+            "keyCode": 86
+          },
+          {
+            "key": "ShiftLeft",
+            "keyCode": 16
+          }
+        ]
+      },
+      {
+        "action": "Pause",
+        "keys": [
+          {
+            "key": "Enter",
+            "keyCode": 13
+          }
+        ]
+      },
+      {
+        "action": "Quick Restart",
+        "keys": [
+          {
+            "key": "KeyR",
+            "keyCode": 82
+          }
+        ]
+      }
+    ],
+    "gamepadControls": [
+      {
+        "action": "Left",
+        "buttons": [
+          14
+        ],
+        "axes": [
+          {
+            "index": 0,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Right",
+        "buttons": [
+          15
+        ],
+        "axes": [
+          {
+            "index": 0,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Up",
+        "buttons": [
+          12
+        ],
+        "axes": [
+          {
+            "index": 1,
+            "direction": -1
+          }
+        ]
+      },
+      {
+        "action": "Down",
+        "buttons": [
+          13
+        ],
+        "axes": [
+          {
+            "index": 1,
+            "direction": 1
+          }
+        ]
+      },
+      {
+        "action": "Jump",
+        "buttons": [
+          0,
+          3
+        ]
+      },
+      {
+        "action": "Dash",
+        "buttons": [
+          2,
+          1
+        ]
+      },
+      {
+        "action": "Grab",
+        "buttons": [
+          7,
+          6,
+          5,
+          4
+        ]
+      },
+      {
+        "action": "Pause",
+        "buttons": [
+          9
+        ]
+      },
+      {
+        "action": "Talk",
+        "buttons": [
+          1
+        ]
+      }
+    ],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 745933867,
+    "thumbnail": "/thumbs/obsidian/celeste.webp"
+  },
+  {
+    "slug": "gamble-with-your-friends",
+    "title": "Gamble with Your Friends",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "TEAM GWYF",
+    "description": "Gamble With Your Friends An online 1-6 player co-op \"casino crawler\" where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark's daily quota in 5 minutes - or face the consequences. FEATURES:",
+    "tags": [
+      "Casual",
+      "Board Game",
+      "Singleplayer",
+      "Multiplayer",
+      "Comedy",
+      "Indie"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 793178145,
+    "thumbnail": "/thumbs/obsidian/gamble-with-your-friends.webp"
+  },
+  {
+    "slug": "fears-to-fathom-home-alone",
+    "title": "Fears To Fathom: Home Alone",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 824770094,
+    "thumbnail": ""
+  },
+  {
+    "slug": "five-nights-at-freddys-sister-location",
+    "title": "Five Nights at Freddy's: Sister Location",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "Scott Cawthon",
+    "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! Now hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+    "tags": [
+      "Horror",
+      "Point & Click",
+      "Indie",
+      "Strategy",
+      "Survival"
+    ],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 829619593,
+    "thumbnail": "/thumbs/obsidian/five-nights-at-freddys-sister-location.webp"
+  }
+]

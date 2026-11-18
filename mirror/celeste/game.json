@@ -1,0 +1,1225 @@
+{
+  "slug": "celeste",
+  "title": "Celeste",
+  "type": "HTML",
+  "developer": " Maddy Makes Games",
+  "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+  "tags": [
+    "2D",
+    "2D Platformer",
+    "Action",
+    "Platformer",
+    "Indie",
+    "Atmospheric",
+    "Story Rich",
+    "Difficult"
+  ],
+  "controls": [
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "KeyC",
+          "keyCode": 67
+        }
+      ]
+    },
+    {
+      "action": "Dash/Talk",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    },
+    {
+      "action": "Grab",
+      "keys": [
+        {
+          "key": "KeyZ",
+          "keyCode": 90
+        },
+        {
+          "key": "KeyV",
+          "keyCode": 86
+        },
+        {
+          "key": "ShiftLeft",
+          "keyCode": 16
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "Enter",
+          "keyCode": 13
+        }
+      ]
+    },
+    {
+      "action": "Quick Restart",
+      "keys": [
+        {
+          "key": "KeyR",
+          "keyCode": 82
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Left",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Up",
+      "buttons": [
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "buttons": [
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0,
+        3
+      ]
+    },
+    {
+      "action": "Dash",
+      "buttons": [
+        2,
+        1
+      ]
+    },
+    {
+      "action": "Grab",
+      "buttons": [
+        7,
+        6,
+        5,
+        4
+      ]
+    },
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    },
+    {
+      "action": "Talk",
+      "buttons": [
+        1
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "0d8195e5-7736-400d-9352-d8cb9a96b1de",
+  "sourceVersion": "1.4.0.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/0d8195e5-7736-400d-9352-d8cb9a96b1de/1.4.0.0/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/0d8195e5-7736-400d-9352-d8cb9a96b1de/1.4.0.0/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/0d8195e5-7736-400d-9352-d8cb9a96b1de/1.4.0.0/index.html",
+  "status": "done",
+  "sizeBytes": 745933867,
+  "assetCount": 311,
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataac.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataac.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaa.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaa.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataab.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataab.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaf.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaf.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataad.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataad.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataae.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataae.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataah.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataah.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataag.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataag.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataai.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataai.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaj.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaj.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataak.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataak.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataam.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataam.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataan.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataan.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataao.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataao.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataap.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataap.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataas.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataas.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaq.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaq.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataau.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataau.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataar.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataar.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataal.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataal.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataat.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataat.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataav.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataav.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataay.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataay.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/main.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataax.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataax.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/node_modules/.pnpm/jszip@3.10.1/node_modules/jszip/dist/jszip.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/node_modules/.pnpm/jszip@3.10.1/node_modules/jszip/dist/jszip.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/_framework/data/data.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/_framework/data/data.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/_framework/dotnet.native.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/_framework/dotnet.native.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dotnet.native.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dotnet.native.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/data.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/data.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/datafile_data.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/datafile_data.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/japanese.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/japanese.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/chinese.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/chinese.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/chinese_0.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/chinese_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/korean.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/korean.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/japanese_0.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/japanese_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/renogare192.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/renogare192.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/korean_0.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/korean_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/renogare64.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/renogare64.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/russian.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/russian.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Fonts/russian_0.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Fonts/russian_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/French.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/French.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/German.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/German.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/german.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/german.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/brazil-portuguese.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/brazil-portuguese.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/canadian-english.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/canadian-english.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/french.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/french.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/simplified-chinese.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/simplified-chinese.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/russian.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/russian.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/italian.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/italian.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/japanese.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/japanese.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/korean.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/korean.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Icons/spanish.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Icons/spanish.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Italian.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Italian.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Spanish.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Spanish.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaw.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/celeste@4f043a5ce121b74dc54ce56d74f213a2eeea6b4e/dataaw.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/Korean.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/Korean.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/japanese.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/japanese.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/english.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/english.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Dialog/russian.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Dialog/russian.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/AnimatedTiles.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/AnimatedTiles.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/03.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/03.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/00b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/00b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/02.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/02.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/04a.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/04a.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/06.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/06.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/04b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/04b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/05a.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/05a.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/05b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/CelestialResort/05b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_a-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_a-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_e-00z.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_e-00z.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_i-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_i-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_f-door.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_f-door.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_h-00b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_h-00b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_j-16.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_j-16.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_j-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/10_j-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1H_04.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1H_04.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1H_08.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1H_08.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1_6.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1_6.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1_9b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/1_9b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2H_03.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2H_03.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2H_08b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2H_08b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2_3.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2_3.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2_end_3.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/2_end_3.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H_06.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H_06.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H_11.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H_11.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H_16.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H_16.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3_00-d.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3_00-d.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3_08-a.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3_08-a.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3_09-d.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/3_09-d.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4H_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/4_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5H_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_e-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/5_e-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6H_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_boss-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_boss-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_04.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_04.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_after-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/6_after-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_f-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_f-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_c-01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_c-01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_g-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_g-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_e-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7H_e-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_f-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_f-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_e-00b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_e-00b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_g-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/7_g-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H_b-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H_b-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H_a-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H_a-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H_c-01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9H_c-01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9_a-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9_a-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9_c-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9_c-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/mask.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/mask.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9_d-00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/9_d-00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/02.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/02.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/polaroid.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Checkpoints/polaroid.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/04.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/04.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/03.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/03.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/06.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/06.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/07.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/07.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/02.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/02.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/05.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/05.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/08.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Cliffside/08.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/04.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/04.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/05.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/05.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/07a.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/07a.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/03.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/03.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/07b.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/07b.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/06.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/06.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/07c.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Core/07c.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/00.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/00.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/02.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/02.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/03.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/03.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/05.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/05.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/04.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/04.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/06.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/06.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/09.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/09.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/07.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/07.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/08.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/08.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/10.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/10.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/12.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/12.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/13.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/13.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/11.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/11.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/16.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/16.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/15.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/15.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/14.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/14.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/19.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/19.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/17.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/17.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/20.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/20.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/18.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/18.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-cursor.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-cursor.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-button.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-button.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-picture.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-picture.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/01.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/01.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-window.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/Farewell/21-window.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/FileSelect0.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/FileSelect0.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/02.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/02.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/05.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/05.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/07.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/Content/Graphics/Atlases/ForsakenCity/07.data",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T09:35:10.259Z",
+  "verifiedAt": "2026-11-18T14:27:17.080Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Celeste",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 540
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8775,
+    "rendered": true
+  }
+}
