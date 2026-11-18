@@ -1,0 +1,200 @@
+{
+  "slug": "fears-to-fathom-home-alone",
+  "title": "Fears To Fathom: Home Alone",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/ftf/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ftf/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fear.webp",
+  "baseUrl": "https://truffled.lol/games/ftf/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/ftf/index.html",
+  "status": "done",
+  "sizeBytes": 824770094,
+  "assetCount": 86,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/FTFHAPort.data.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/FTFHAPort.data.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/FTFHAPort.data.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/FTFHAPort.data.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/FTFHAPort.wasm.code.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/FTFHAPort.wasm.code.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/FTFHAPort.wasm.framework.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/FTFHAPort.wasm.framework.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/utils/common.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/utils/common.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/utils/strings.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/utils/strings.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/constants.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/constants.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/messages.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/messages.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/zstream.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/zstream.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/gzheader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/gzheader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/adler32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/adler32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/index.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/index.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/crc32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/crc32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/inffast.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/inffast.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/inftrees.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/zlib/inftrees.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/decompress.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/decompress.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/bit_reader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/bit_reader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/context.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/context.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/decode.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/decode.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/dictionary.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/dictionary.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/dictionary.bin.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/dictionary.bin.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dictionary.bin.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dictionary.bin.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/dictionary-browser.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/dictionary-browser.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/huffman.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/huffman.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/prefix.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/prefix.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/transform.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/transform.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/streams.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/dec/streams.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/node_modules/base64-js/index.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/fears-to-fathom/home-alone/Build/node_modules/base64-js/index.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:53:46.589Z",
+  "verifiedAt": "2026-11-17T09:55:00.388Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | Fears To Fathom: Home Alone",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8617,
+    "rendered": true
+  }
+}

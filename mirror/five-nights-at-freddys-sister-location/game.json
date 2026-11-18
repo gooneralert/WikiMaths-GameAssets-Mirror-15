@@ -1,0 +1,104 @@
+{
+  "slug": "five-nights-at-freddys-sister-location",
+  "title": "Five Nights at Freddy's: Sister Location",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! Now hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "b99014f5-52d7-4a18-a6ce-38e9afccb966",
+  "sourceVersion": "1.121",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/index.html",
+  "status": "done",
+  "sizeBytes": 829619593,
+  "assetCount": 92,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/favicon.ico",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/favicon.ico",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/b99014f5-52d7-4a18-a6ce-38e9afccb966/1.121/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:23:47.167Z",
+  "verifiedAt": "2026-11-16T15:32:31.285Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Five Nights at Freddy's Sister Location",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 720
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9704,
+    "rendered": true
+  }
+}
