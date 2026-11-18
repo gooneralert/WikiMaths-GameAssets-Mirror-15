@@ -1,0 +1,91 @@
+{
+  "slug": "hotline-miami-2",
+  "title": "Hotline Miami 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/hlm2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/hlm2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/hlm2.webp",
+  "baseUrl": "https://truffled.lol/games/hlm2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/hlm2/index.html",
+  "status": "done",
+  "sizeBytes": 329474505,
+  "assetCount": 18,
+  "known404": [
+    "https://truffled.lol/Config/System.json",
+    "https://truffled.lol/gamecontrollerdb.txt",
+    "https://truffled.lol/images/module0.json",
+    "https://truffled.lol/images/module1.json",
+    "https://truffled.lol/images/module2.json",
+    "https://truffled.lol/images/module3.json",
+    "https://truffled.lol/images/module4.json",
+    "https://truffled.lol/images/module5.json",
+    "https://truffled.lol/images/module6.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/Config/System.json",
+      "error": "HTTP 404 for https://truffled.lol/Config/System.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamecontrollerdb.txt",
+      "error": "HTTP 404 for https://truffled.lol/gamecontrollerdb.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module0.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module0.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module1.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module1.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module2.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module2.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module3.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module3.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module4.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module4.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module5.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module5.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/images/module6.json",
+      "error": "HTTP 404 for https://truffled.lol/images/module6.json",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/hlm2/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:50:11.766Z"
+}

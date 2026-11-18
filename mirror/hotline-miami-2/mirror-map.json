@@ -1,0 +1,20 @@
+{
+  "/404": "/.mp3.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/games/hlm2/.mp3": "/.mp3.html",
+  "/games/hlm2/.ogg": "/.ogg.html",
+  "/games/hlm2/.wav": "/.wav.html",
+  "/games/hlm2/app.js": "/app.js",
+  "/games/hlm2/index.html": "/index.html",
+  "/games/hlm2/parts.json": "/parts.json",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/.mp3.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/games/hlm2/.mp3": "/.mp3.html",
+  "https://truffled.lol/games/hlm2/.ogg": "/.ogg.html",
+  "https://truffled.lol/games/hlm2/.wav": "/.wav.html",
+  "https://truffled.lol/games/hlm2/app.js": "/app.js",
+  "https://truffled.lol/games/hlm2/index.html": "/index.html",
+  "https://truffled.lol/games/hlm2/parts.json": "/parts.json",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}
